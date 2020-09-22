@@ -1,7 +1,5 @@
 // fetches from the API 
 
-//HAILEY 
-
 
 let eateries = [];
 
